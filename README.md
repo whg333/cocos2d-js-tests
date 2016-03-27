@@ -18,4 +18,9 @@ ensure you had copied **'frameworks'** to cocos2d-js-tests
 ![2](./images/2.png)
 
 enjoy~!
+
 ![3](./images/3.png)
+
+if you use [WebStorm](http://www.jetbrains.com/webstorm/) you can **Run 'index.html'** directly
+
+![4](./images/4.png)
